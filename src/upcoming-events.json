@@ -1,7 +1,7 @@
 [
     {
         "name": "Protecting the outer rim",
-        "loccation": "Corvus, Jangala",
+        "location": "Corvus, Jangala",
         "speaker": "Jacob Mercer",
         "type": "free",
         "time": {
@@ -11,7 +11,7 @@
     },
     {
         "name": "The art of spying",
-        "loccation": "Barad sector, Asharu",
+        "location": "Barad sector, Asharu",
         "speaker": "Artemius Tau",
         "type": "free",
         "time": {
@@ -21,7 +21,7 @@
     },
     {
         "name": "Vip Protecting the outer rim",
-        "loccation": "Corvus, Jangala",
+        "location": "Corvus, Jangala",
         "speaker": "Jacob Mercer",
         "type": "vip",
         "time": {
@@ -31,7 +31,7 @@
     },
     {
         "name": "vip The art of spying",
-        "loccation": "Barad sector, Asharu",
+        "location": "Barad sector, Asharu",
         "speaker": "Artemius Tau",
         "type": "vip",
         "time": {
@@ -41,7 +41,7 @@
     },
     {
         "name": "vip The art of spying",
-        "loccation": "Barad sector, Asharu",
+        "location": "Barad sector, Asharu",
         "speaker": "Artemius Tau",
         "type": "vip",
         "time": {
@@ -51,7 +51,7 @@
     },
     {
         "name": "vip The art of spying",
-        "loccation": "Barad sector, Asharu",
+        "location": "Barad sector, Asharu",
         "speaker": "Artemius Tau",
         "type": "vip",
         "time": {
