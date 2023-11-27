@@ -39,11 +39,11 @@
   color: #fff;
 }
 .free {
-  background-color: var --color-green;
+  background-color: var(--color-green);
 }
 .paid {
-  background-color: var --color-blue;
+  background-color: var(--color-blue);
 }
 .vip {
-  background-color: var --color-red;
+  background-color: var(--color-red);
 }

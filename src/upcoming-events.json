@@ -13,7 +13,7 @@
         "name": "The art of spying",
         "location": "Barad sector, Asharu",
         "speaker": "Artemius Tau",
-        "type": "free",
+        "type": "paid",
         "time": {
             "start": "2022-02-12T18:00:00",
             "end": "2022-02-12T19:00:00"
@@ -33,14 +33,14 @@
         "name": "vip The art of spying",
         "location": "Barad sector, Asharu",
         "speaker": "Artemius Tau",
-        "type": "vip",
+        "type": "paid",
         "time": {
             "start": "2022-02-11T18:00:00",
             "end": "2022-02-11T21:00:00"
         }
     },
     {
-        "name": "vip The art of spying",
+        "name": "vip The art of spying 2",
         "location": "Barad sector, Asharu",
         "speaker": "Artemius Tau",
         "type": "vip",
@@ -50,7 +50,7 @@
         }
     },
     {
-        "name": "vip The art of spying",
+        "name": "vip The art of spying 3",
         "location": "Barad sector, Asharu",
         "speaker": "Artemius Tau",
         "type": "vip",
